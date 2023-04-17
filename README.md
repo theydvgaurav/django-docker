@@ -12,7 +12,7 @@ A django project which implements the Docker concept, and containerize a django 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/theydvgaurav/django-docker
 ```
 
 Go to the project directory
